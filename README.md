@@ -12,6 +12,7 @@
 ![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles1.png)
 ![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles2.png)
 ![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles3.png)
+![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles4.png)
 
 ## В этом курсе я научился:
 * подключаться и преобразовывать данные с помощью Power Query;
