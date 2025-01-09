@@ -1,6 +1,6 @@
 #  Дашборд по продажам в PowerBI
 
-### Выполнил его как "Microsoft Power BI для бизнес-аналитики". 
+##№# Выполнил его в процессе изучения курса "Microsoft Power BI для бизнес-аналитики". 
 
 ![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles1.png)
 ![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles2.png)
