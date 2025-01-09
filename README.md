@@ -29,9 +29,9 @@
 + Возраст = DATEDIFF(AW_Customers_Lookup[BirthDate],NOW(),YEAR)
 + Customer Priority = IF(AW_Customers_Lookup[Возраст]>50 && AW_Customers_Lookup[AnnualIncome]>100000,"Приоритет","Стандарт")
 + Avg Price = AVERAGE(AW_Products_Lookup[ProductPrice])
-+ Overall Avg Price = CALCULATE([Avg Price],all(AW_Products_Lookup))
-+ Prev Month Returns = CALCULATE([Return Cases],DATEADD(AW_Calendar_Lookup[Date],-1,MONTH))
++ High Orders = CALCULATE([Order Cases],FILTER(AW_Products_Lookup, AW_Products_Lookup[ProductPrice]>[Overall Avg Price]))
 + Return Rate = DIVIDE([Total Returns],[Quantity Sold], "нет продаж")
 + Return Cases = COUNTA(AW_Returns[ReturnQuantity])
 + Доход = SUMX(AW_Sales,AW_Sales[OrderQuantity] * RELATED(AW_Products_Lookup[ProductPrice]))
++ ALL Returns = CALCULATE([Return Cases],ALL(AW_Returns))
 
