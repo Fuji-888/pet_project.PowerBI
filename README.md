@@ -7,7 +7,7 @@
    В этом курсе оказался большой упор на различные DAX формулы.
    
    Но стиль визуализации мне не понравился, но я решил его не менять, так как я изучал основы работы с PowerBI. 
-Визуализацию, которая мне нравится, я сделал в [СВОЕМ ПЕТ ПРОЕКТЕ](https://github.com/Fuji-888/pet_project.SQL_PowerBI) после этого курса 
+Визуализацию, которая мне нравится, я сделал в [СВОЕМ ПЕТ ПРОЕКТЕ](https://github.com/Fuji-888/pet_project.SQL_PowerBI) после этого курса.
 
 ![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles1.png)
 ![Иллюстрация к проекту](https://github.com/Fuji-888/pet_project.PowerBI/blob/main/pbi_cycles2.png)
